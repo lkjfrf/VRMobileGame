@@ -1,0 +1,7 @@
+*.exe
+*.pdb
+*.obb
+*.so
+/Package
+/Saved
+/Intermediate
