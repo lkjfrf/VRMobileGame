@@ -5,7 +5,7 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "GoogleVRController",
+			"Name": "GoogleVRHMD",
 			"Enabled": true
 		}
 	]

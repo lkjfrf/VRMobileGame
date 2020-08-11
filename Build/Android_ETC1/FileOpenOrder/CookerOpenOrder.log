@@ -390,11 +390,11 @@
 "../../../../WorkSpace/VRMobileGame/Content/BluePrint/Water.uasset" 389
 "../../../../WorkSpace/VRMobileGame/Content/BluePrint/SpawnPoint.uasset" 390
 "../../../Engine/Content/VREditor/BasicMeshes/SM_Cube_01.uasset" 391
-"../../../../WorkSpace/VRMobileGame/Content/Maps/Level1.umap" 392
-"../../../../WorkSpace/VRMobileGame/Content/Image/NomalMode.uasset" 393
-"../../../../WorkSpace/VRMobileGame/Content/Image/VRmode.uasset" 394
-"../../../../WorkSpace/VRMobileGame/Content/Image/back-button.uasset" 395
-"../../../../WorkSpace/VRMobileGame/Content/Widget/GamePlay.uasset" 396
+"../../../../WorkSpace/VRMobileGame/Content/Image/back-button.uasset" 392
+"../../../../WorkSpace/VRMobileGame/Content/Widget/GamePlay.uasset" 393
+"../../../../WorkSpace/VRMobileGame/Content/Maps/Level1.umap" 394
+"../../../../WorkSpace/VRMobileGame/Content/Image/NomalMode.uasset" 395
+"../../../../WorkSpace/VRMobileGame/Content/Image/VRmode.uasset" 396
 "../../../../WorkSpace/VRMobileGame/Content/Widget/Loby.uasset" 397
 "../../../../WorkSpace/VRMobileGame/Content/Maps/Loby.umap" 398
 "../../../../WorkSpace/VRMobileGame/Content/Geometry/Meshes/MI_Cube_03.uasset" 399
