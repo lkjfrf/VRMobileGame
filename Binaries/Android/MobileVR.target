@@ -20,11 +20,6 @@
 			"Type": "Executable"
 		},
 		{
-			"Path": "$(EngineDir)/Plugins/Runtime/GoogleVR/GoogleVRController/Binaries/Android/UE4-GoogleVRController-arm64-es2.a",
-			"Type": "StaticLibrary",
-			"IsPrecompiled": true
-		},
-		{
 			"Path": "$(EngineDir)/Plugins/Runtime/GoogleVR/GoogleVRHMD/Binaries/Android/UE4-GoogleVRHMD-arm64-es2.a",
 			"Type": "StaticLibrary",
 			"IsPrecompiled": true
@@ -276,11 +271,6 @@
 		},
 		{
 			"Path": "$(EngineDir)/Binaries/Android/UE4-Core-arm64-es2.a",
-			"Type": "StaticLibrary",
-			"IsPrecompiled": true
-		},
-		{
-			"Path": "$(EngineDir)/Binaries/Android/UE4-InputDevice-arm64-es2.a",
 			"Type": "StaticLibrary",
 			"IsPrecompiled": true
 		},
@@ -753,10 +743,6 @@
 	"RuntimeDependencies": [
 		{
 			"Path": "$(ProjectDir)/MobileVR.uproject",
-			"Type": "UFS"
-		},
-		{
-			"Path": "$(EngineDir)/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin",
 			"Type": "UFS"
 		},
 		{
@@ -1881,10 +1867,6 @@
 		}
 	],
 	"AdditionalProperties": [
-		{
-			"Name": "AndroidPlugin",
-			"Value": "Plugins\\Runtime\\GoogleVR\\GoogleVRController\\Source\\GoogleVRController\\GoogleVRController_APL.xml"
-		},
 		{
 			"Name": "AndroidPlugin",
 			"Value": "Plugins\\Runtime\\GoogleVR\\GoogleVRHMD\\Source\\GoogleVRHMD\\GoogleVRHMD_APL.xml"
